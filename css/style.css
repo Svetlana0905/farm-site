@@ -150,7 +150,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background: url("../../img/headerbg.jpg") 50%/cover no-repeat;
+  background: url("../img/headerbg.jpg") 50%/cover no-repeat;
 }
 
 .header__wrapper {
@@ -705,7 +705,7 @@ body {
 }
 
 .box-blue-bottom {
-  background: url("../../img/icon/blue_bottom.png") 100% 100%/cover no-repeat;
+  background: url("../img/icon/blue_bottom.png") 100% 100%/cover no-repeat;
 }
 
 .partner {
