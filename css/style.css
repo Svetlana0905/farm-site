@@ -428,7 +428,7 @@ body {
 
 .box-blue-top {
   padding-bottom: calc(30px + (170 - 30) * ((100vw - 320px) / (1240 - 320)));
-  background: url("../../img/icon/blue_top.png") left/cover no-repeat;
+  background: url("../img/icon/blue_top.png") left/cover no-repeat;
 }
 
 .about__container {
