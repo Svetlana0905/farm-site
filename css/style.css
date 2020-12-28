@@ -184,7 +184,7 @@ body {
 
 .header__logo {
   position: relative;
-  width: calc(284px + (457 - 284) * ((100vw - 767px) / (1240 - 767)));
+  width: calc(284px + (342 - 284) * ((100vw - 767px) / (1240 - 767)));
 }
 
 .header__logo-img {
