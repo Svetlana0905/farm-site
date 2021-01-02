@@ -645,7 +645,6 @@ body {
   margin-bottom: calc(20px + (38 - 20) * ((100vw - 320px) / (1240 - 320)));
   color: #fff;
   font-size: calc(25px + (33 - 25) * ((100vw - 320px) / (1240 - 320)));
-  text-align: center;
 }
 
 .product__text {
